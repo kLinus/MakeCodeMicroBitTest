@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="*|{xW/Viuz-fk(,N#8Ud" x="-19" y="17"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="9$2lNv:eF,=WV|chXc6*"><field name="LEDS">`&#10;        . # . # . &#10;        . # . # . &#10;        . . . . . &#10;        # . . . # &#10;        . # # # .&#10;        `</field></block></statement></block><block type="device_button_event" id="KpxtWNWrQSfOUp`|8#n." x="226" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="_/8jHoT%1UC1^Z#.+rPo"><field name="LEDS">`&#10;        . # . # . &#10;        . # . # . &#10;        . . . . . &#10;        . # # # . &#10;        # . . . #&#10;        `</field></block></statement></block></xml>
