@@ -1,14 +1,4 @@
-
-> Open this page at [https://klinus.github.io/makecodemicrobittest/](https://klinus.github.io/makecodemicrobittest/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/klinus/makecodemicrobittest** and import
+^ Do not click this button. Instead, follow the instructions below.
 
 ## Edit this project ![Build status badge](https://github.com/klinus/makecodemicrobittest/workflows/MakeCode/badge.svg)
 
